@@ -57,7 +57,7 @@
   "dependencies": {
     "murmurhash": "^0.0.2",
     "superstruct": "^0.10.12",
-    "uuid": "^3.3.2",
+    "uuid": "^3.4.0",
     "vwo-sdk-log-messages": "^0.5.0"
   },
   "devDependencies": {
