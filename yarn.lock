@@ -6945,10 +6945,10 @@ vm-browserify@^1.0.1:
   resolved "https://registry.yarnpkg.com/vm-browserify/-/vm-browserify-1.1.0.tgz#bd76d6a23323e2ca8ffa12028dc04559c75f9019"
   integrity sha512-iq+S7vZJE60yejDYM0ek6zg308+UZsdtPExWP9VZoCFCz1zkJoXFnAX7aZfd/ZwrkidzdUZL0C/ryW+JwAiIGw==
 
-vwo-sdk-log-messages@^0.5.0:
-  version "0.5.0"
-  resolved "https://registry.yarnpkg.com/vwo-sdk-log-messages/-/vwo-sdk-log-messages-0.5.0.tgz#59689db0a1722373f394f800d67fa1d2fa9bbc88"
-  integrity sha512-CnKTUV3HkLKGO4AYQwHtQ+WEXDbhR6syZmlF5AmQpitFtu+pgdIlDfp19PZ4wXuGPgjCZKSaSoqisFJSPAloCw==
+vwo-sdk-log-messages@^0.10.0:
+  version "0.10.0"
+  resolved "https://registry.yarnpkg.com/vwo-sdk-log-messages/-/vwo-sdk-log-messages-0.10.0.tgz#e3c6997d424bd7088d99b196aa8690ff4eb3c2a8"
+  integrity sha512-SOanZgxU3cjG6Et8ZPRLcDKHUl7ukT9t7xnNlw4uhcLLf3hZT3Y99fkIRkD8wkG18c8MIbvlRo/UNAqLGm46lg==
 
 w3c-hr-time@^1.0.1:
   version "1.0.1"
